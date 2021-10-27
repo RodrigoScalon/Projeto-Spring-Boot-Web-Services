@@ -7,5 +7,4 @@ import com.rodrigoscalon.project.entities.Order;
 public interface OrderRepository extends JpaRepository <Order, Long> {
 	
 	
-
 }
