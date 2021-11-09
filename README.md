@@ -11,7 +11,7 @@ Funções concluídas (Step by Step)
 
 🟩 Povoar o banco de dados 
 
-🟩 CRUD - Create, Retrieve, Update, Delete
+🟩 CRUD
 
 🟩 Tratamento de exceções 
 
